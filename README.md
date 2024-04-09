@@ -9,4 +9,4 @@ I'm passionate about building awesome systems and becoming better at it everyday
 - Besides building software I like books (especially Dune) and games (especially CRPGs).
 
 #### My current tech stack: 
-[![Go, NodeJS, TS, JS, AWS and Docker](https://skillicons.dev/icons?i=go,nodejs,ts,aws,docker,postgresql,linux)](https://skillicons.dev)
+[![Go, NodeJS, TS, JS and Docker](https://skillicons.dev/icons?i=go,nodejs,ts,docker,postgresql,linux)](https://skillicons.dev)
