@@ -4,9 +4,12 @@
 
 I'm passionate about building awesome systems and becoming better at it everyday.
 
-- I'm currently working on B2B enterprise networking solutions;
+- I'm currently developing observability solutions for a large number of services, containers, pods, datacenters and other devices. More specifically, I'm developing [OpenTelemetry](https://opentelemetry.io/) services;
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/lucian-anghel-3a25331b6/);
 - Besides building software I like books (especially Dune) and games (especially CRPGs).
 
 #### My current tech stack: 
 [![Go, NodeJS, TS, JS and Docker](https://skillicons.dev/icons?i=go,nodejs,ts,docker,postgresql,linux)](https://skillicons.dev)
+
+#### What I'm building outside of work
+In my spare time I'm building a browser 3D online game: [Tridimensional Chess](https://github.com/Anghel-Lucian/tri-d-chess). Star Trek fans will now from where this is inspired from.
