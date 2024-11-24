@@ -10,6 +10,3 @@ I'm passionate about building awesome systems and becoming better at it everyday
 
 #### My current tech stack: 
 [![Go, NodeJS, TS, JS and Docker](https://skillicons.dev/icons?i=go,nodejs,ts,docker,postgresql,linux)](https://skillicons.dev)
-
-#### What I'm building outside of work
-In my spare time I'm building a browser 3D online game: [Tridimensional Chess](https://github.com/Anghel-Lucian/tri-d-chess). Star Trek fans will now from where this is inspired from.
