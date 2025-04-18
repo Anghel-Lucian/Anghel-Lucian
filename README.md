@@ -1,4 +1,4 @@
-### Hi!. 
+### Hello. 
 
 I'm a software engineer. I like Go, TS, Linux, and learning about security, cloud and distributed systems. I also like books like LOTR and games like Fallout.
 
