@@ -7,4 +7,4 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lucian-anghel-3a25331
 I'm currently building stuff for network admins.
 
 #### My current tech stack: 
-[![Go, NodeJS, TS, JS and Docker](https://skillicons.dev/icons?i=go,nodejs,ts,docker,postgresql,linux)](https://skillicons.dev)
+[![Go, NodeJS, TS, JS, Docker and Linux](https://skillicons.dev/icons?i=go,nodejs,ts,docker,linux)](https://skillicons.dev)
